@@ -37,7 +37,7 @@ This shader material has been modified for use with PMX models. It's a simple no
 - アセットについての問い合わせはお控えください。
 
 ### 当リポジトリの問い合わせ先
-PMX向けに編集されたこのシェーダーは、基本的に**ソースリポジトリの開発者や貢献者とは関係がなく、原則サポートしていません。**
+PMX向けに編集されたこのシェーダーは、基本的に**ソースリポジトリの開発者や貢献者は関係がなく、原則サポートしていません。**
 PMXモデルへの適用などの問い合わせについては開発者や貢献者には行わず、以下へ行ってください。
 - [Discord server](https://discord.gg/3p9cT4ajqy) / Hoyo Animation Creator [JP/EN]
 - [Twitter / fnoji](https://twitter.com/fnoji) / [JP/EN]
@@ -64,6 +64,9 @@ PMXモデルへの適用などの問い合わせについては開発者や貢�
 - [Isaac](https://x.com/Just_ScaasI/)
 - [Bonny](https://www.youtube.com/@BonnyAnimations/)
 - [OrionsEgg](https://x.com/OrionsEgg/)
+PMX向けへ編集を行う事についての参考・協力者
+- [克里斯提亚娜](https://space.bilibili.com/322607631/)
+- [MaxMilk](https://www.tiktok.com/@maxm1lk_)
 
 ## 免責事項
 
@@ -83,6 +86,7 @@ PMXモデルへの適用などの問い合わせについては開発者や貢�
 
 - シェーダー適用を自動化する[Blenderアドオン](https://github.com/michael-gh1/Addons-And-Tools-For-Blender-miHoYo-Shaders) by Mken が存在しますが、これは全てFBXモデル向けです。PMX向けは現在作成予定となります。
 - PMXモデルへの適用手順を示したビデオを１例として[投稿しています](https://www.youtube.com/watch?v=xOBs_r3qeE8)。
+- 再度記載しますが、NPRレンダリング向けに開発されている [Goo Engine](https://www.dillongoostudios.com/gooengine) 専用シェーダーです。通常Blenderの場合、一部ノードが足りていないため正常に使用することができません。
 
 ## ソースリポジトリの開発者より
 
