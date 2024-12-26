@@ -64,6 +64,7 @@ PMXモデルへの適用などの問い合わせについては開発者や貢�
 - [Isaac](https://x.com/Just_ScaasI/)
 - [Bonny](https://www.youtube.com/@BonnyAnimations/)
 - [OrionsEgg](https://x.com/OrionsEgg/)
+
 PMX向けへ編集を行う事についての参考・協力者
 - [克里斯提亚娜](https://space.bilibili.com/322607631/)
 - [MaxMilk](https://www.tiktok.com/@maxm1lk_)
